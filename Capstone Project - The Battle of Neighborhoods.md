@@ -31,3 +31,4 @@ These locations, as well as locations of Toronto neighbourhoods, as derived in a
 
 https://api.foursquare.com/v2/venues/explore?&client_id={}&client_secret={}&v={}&ll={},{}&radius={}&limit={}
 
+This will provide information of nearby venues, which will be aggregated by category (pizza store, asian market, etc.) for analysis
